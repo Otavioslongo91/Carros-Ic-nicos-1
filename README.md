@@ -1,1 +1,3 @@
 # Carros-Ic-nicos
+
+O tema do site é carros icônicos, escolhi uma paleta de cores neutra, utilizando bastante o cinza e preto, mas também com um pouco de azul escuro, logo acima do site vc verá uma "barra" cinza escuro onde vc pode navegar entre as páginas do site, eu usei a classe "contêiner" em basicamente todo o código para deixar a margin em 0 e auto, pedding em 20px e definir o max-width em 1000px.
