@@ -55,7 +55,8 @@ header {
     margin-top: 10px;
     transition: transform 0.3s ease;
 }
-.carro img:hover{
+
+.carro img:hover {
     transform: scale(1.1);
 }
 
@@ -92,7 +93,7 @@ tr:nth-child(even) {
 
 
 tr:hover {
-    background-color: #c5c2c2;
+    background-color: #999999;
 }
 
 tbody tr:last-child td {
